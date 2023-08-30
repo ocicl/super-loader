@@ -1,0 +1,9 @@
+* super-loader
+
+A local systems loader for common lisp.
+
+|---------+-------------------------------------------------------|
+| source  | git:https://github.com/jordan4ibanez/super-loader.git |
+| commit  | c5a825d                                               |
+| systems | super-loader                                          |
+|---------+-------------------------------------------------------|
