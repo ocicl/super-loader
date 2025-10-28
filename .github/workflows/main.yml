@@ -8,6 +8,7 @@ on:
 jobs:
   ocicl_job:
     permissions:
+      issues: write
       packages: write
       contents: write
     runs-on: ubuntu-latest
